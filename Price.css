@@ -1,0 +1,116 @@
+/*----- 2025 Tate R.A Byers - Crafted with Intellect and Ingenuity. 😎 ------*/
+/*----- 2025 Tate R.A Byers - Crafted with Intellect and Ingenuity. 😎 ------*/
+/*----- 2025 Tate R.A Byers - Crafted with Intellect and Ingenuity. 😎 ------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+    color: #00F000;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
+}
+
+a:hover {
+    color: #00F000;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+#pricing {
+    background-color: #111;
+    
+    padding: 60px 0;
+}
+
+#pricing h2 {
+    text-align: center;
+    font-size: 5rem;
+    margin-bottom: 40px;
+    margin-top: -60px;
+    color: #00FF00;
+}
+
+.pricing-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.pricing-card {
+    background: #222;
+    border: 2px solid #00F000;
+    border-radius: 8px;
+    padding: 30px 20px;
+    width: 300px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.pricing-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 5px 15px rgba(0, 255, 0, 0.3);
+}
+
+.pricing-card h3 {
+    font-size: 4rem;
+    margin-bottom: 10px;
+    color: #00FF00;
+    text-shadow: 0px -20px 20px #0ff,0px -20px 30px #0ff,0px -20px 40px #0ff;
+}
+
+.pricing-card p {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #0FF;
+    text-shadow: 0 0 10px #00ff00,0 0 20px #00ff00;
+}
+
+.pricing-card ul {
+    list-style: none;
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+.pricing-card ul li {
+    margin: 10px 0;
+    color: #00F000;
+}
+
+.cta-button {
+    display: inline-block;
+    background: #00FF00;
+    color: #000;
+    padding: 12px 25px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.cta-button:hover {
+    background: #00F000;
+    transform: translateY(-2px);
+}
+
+.pricing-card.premium {
+    background: #000;
+    border: 2px solid #00FF00;
+    color: #00FF00;
+}
+
+/*----- 2025 Tate R.A Byers - Crafted with Intellect and Ingenuity. 😎 ------*/
+/*----- 2025 Tate R.A Byers - Crafted with Intellect and Ingenuity. 😎 ------*/
+/*----- 2025 Tate R.A Byers - Crafted with Intellect and Ingenuity. 😎 ------*/

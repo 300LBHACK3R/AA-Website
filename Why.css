@@ -1,0 +1,70 @@
+/*----- 2025 Tate R.A Byers - Crafted with Intellect and Ingenuity. 😎 ------*/
+/*----- 2025 Tate R.A Byers - Crafted with Intellect and Ingenuity. 😎 ------*/
+/*----- 2025 Tate R.A Byers - Crafted with Intellect and Ingenuity. 😎 ------*/
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #0a0a0a;
+    color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.section-title {
+    font-size: 4.5rem;
+    margin-bottom: 20px;
+    color: #0ff;
+    text-shadow: 0 0 10px #0ff;
+}
+    
+        .SubText {
+            font-size: 1.7rem;
+            font-weight: bolder;
+            color: #0ff;
+            text-decoration: underline;
+        }
+
+.section-description {
+    font-size: 1.6rem;
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
+
+.features-list {
+    list-style: none;
+    padding-left: 0;
+    font-size: 1.4rem;
+}
+
+.features-list li {
+    margin-bottom: 12px;
+    padding-left: 25px;
+    position: relative;
+}
+
+.features-list li::before {
+    content: "✔";
+    position: absolute;
+    left: 0;
+    color: #0ff;
+    font-weight: bold;
+}
+
+.site-footer {
+    background-color: #111;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 1rem;
+    color: #ccc;
+    border-top: 1px solid #222;
+}
+
+/*----- 2025 Tate R.A Byers - Crafted with Intellect and Ingenuity. 😎 ------*/
+/*----- 2025 Tate R.A Byers - Crafted with Intellect and Ingenuity. 😎 ------*/
+/*----- 2025 Tate R.A Byers - Crafted with Intellect and Ingenuity. 😎 ------*/
