@@ -82,7 +82,6 @@ Developed by:
 Tate R.A Byers (AKA 300LBHACK3R)
 ----------------------------
 Credits:
-------------------------------------
 Special thanks to the cybersecurity community and all who contributed ideas and feedback.
 © 2025 Tate R.A Byers. All rights reserved.
 Crafted with Intellect and Ingenuity.
