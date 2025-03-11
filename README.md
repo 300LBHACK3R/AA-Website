@@ -11,8 +11,7 @@
 3. [Security Features & Techniques](#security-features--techniques)
 4. [Styling & Design](#styling--design)
 5. [Code Organization & Implementation](#code-organization--implementation)
-6. [How to Use & Deploy](#how-to-use--deploy)
-7. [Contact & Credits](#contact--credits)
+6. [Contact & Credits](#contact--credits)
 
 ---
 
@@ -76,7 +75,7 @@ Automated Anonimity (AA) is your all-in-one toolkit for achieving and maintainin
 
 ---
 
-7. Contact & Credits
+6. Contact & Credits
  ----------------------
 Developed by:
 Tate R.A Byers (AKA 300LBHACK3R)
