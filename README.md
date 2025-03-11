@@ -80,14 +80,9 @@ Automated Anonimity (AA) is your all-in-one toolkit for achieving and maintainin
  ----------------------
 Developed by:
 Tate R.A Byers (AKA 300LBHACK3R)
------------------------------
-For Support & Inquiries:
-
-Email: support@yourcompany.com
-Website: https://www.yourcompany.com
+----------------------------
 Credits:
 ------------------------------------
 Special thanks to the cybersecurity community and all who contributed ideas and feedback.
 © 2025 Tate R.A Byers. All rights reserved.
 Crafted with Intellect and Ingenuity.
-
